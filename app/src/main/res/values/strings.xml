@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CobaTugas1</string>
+    <string name="submit">Cari</string>
+    <string name="search_movie" />
+    <string name="release_date" />
+    <string name="overview" />
+    <string name="movie_name" />
+    <string name="title" />
+    <string name="vote_count" />
+    <string name="vote_average" />
+    <string name="popularity" />
+    <string name="empty" />
+    <string name="adult" />
+</resources>
